@@ -182,3 +182,7 @@ http://localhost:8000/detect/
 
 Hệ thống phát hiện người đeo khẩu trang trong ảnh sử dụng YOLOv8
 Triển khai bằng FastAPI và Streamlit trên Windows.
+
+---
+
+Link Youtube: https://youtu.be/kw5MJN73IrM
